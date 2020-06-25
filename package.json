@@ -1,0 +1,14 @@
+{
+    "name": "ChannelBot",
+    "version": "1.0.0",
+    "description": "禰豆子",
+    "main": "dice.js",
+    "author": "Mingjen",
+    "dependencies": {
+        "discord.js": "^11.6.4",
+        "opusscript": "^0.0.7",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.5",
+        "ytdl-core": "^3.0.0"
+    }
+}
